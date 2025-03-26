@@ -10,7 +10,6 @@
     </parent>
     <groupId>com.test.hello.world</groupId>
     <artifactId>docker-demo</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>docker-demo</name>
     <description>docker-demo</description>
