@@ -11,7 +11,7 @@
     <groupId>com.test.hello.world</groupId>
     <artifactId>docker-demo</artifactId>
     <packaging>jar</packaging>
-    <name>docker-demo</name>
+    <name>docker-demo-3.4.4.jar</name>
     <description>docker-demo</description>
     <url/>
     <licenses>
