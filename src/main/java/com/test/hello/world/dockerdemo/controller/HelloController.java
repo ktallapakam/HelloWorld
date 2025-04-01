@@ -10,6 +10,7 @@ public class HelloController {
 
     @GetMapping("/hello")
     public String hello(@RequestParam() String name) {
+        //returns hello world as string.,,,,
         return "<h1>Hello " + name+"....!</h1>";
     }
 }
