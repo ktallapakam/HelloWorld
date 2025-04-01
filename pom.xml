@@ -5,13 +5,13 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <!-- <version>3.4.4</version> -->
+        <version>3.4.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.test.hello.world</groupId>
     <artifactId>docker-demo</artifactId>
-    <packaging>jar</packaging>
-    <name>docker-demo.jar</name>
+    <packaging>war</packaging>
+    <name>docker-demo.war</name>
     <description>docker-demo</description>
     <url/>
     <licenses>
